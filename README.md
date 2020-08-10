@@ -23,14 +23,6 @@
 1. [License](#licence)
 1. [Creators](#creators)
 
-## [Coding Newsletter](https://weeklycoding.com)
-
-Sign up for my [coding newsletter](https://weeklycoding.com) to get quick updates on Kotlin and Android development related topics.
-
-<h2 id="quick-start">Quick Start :chart_with_upwards_trend:</h2>
-
-Add the library to your Android project, then check out the examples below!
-
 ### Gradle Setup
 
 ```gradle
@@ -195,7 +187,7 @@ You can follow me on Twitter [**@PhilippJahoda**](https://twitter.com/PhilippJah
 
 <h1 id="license">License :page_facing_up:</h1>
 
-Copyright 2019 Philipp Jahoda
+Copyright 2020 Philipp Jahoda
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
